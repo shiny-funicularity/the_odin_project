@@ -1,2 +1,2 @@
 (this.webpackJsonpthe_odin_project=this.webpackJsonpthe_odin_project||[]).push([[2],{11:function(e,t,n){},13:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),r=n(2),s=n.n(r),o=(n(11),n(0)),d=function(){return Object(o.jsx)("div",{className:"app",children:Object(o.jsx)("h1",{children:"Odin Recipes"})})};s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))}},[[13,4,0]]]);
-//# sourceMappingURL=recipes.a643266c.chunk.js.map
+//# sourceMappingURL=recipes.4e294065.chunk.js.map
