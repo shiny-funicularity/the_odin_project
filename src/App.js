@@ -17,7 +17,7 @@ function App() {
             <p>Odin Recipes</p>
           </div>
           <div className="app-project-item-right">
-            <a href="the_odin_project/recipes" target="_blank" rel="noreferrer" >Live Preview</a>
+            <a href={process.env.PUBLIC_URL + '/recipes'} target="_blank" rel="noreferrer" >Live Preview</a>
           </div>
         </div>
         <hr className="app-project-item-hr" />
