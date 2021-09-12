@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/the_odin_project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/the_odin_project/static/js/main.617a9120.chunk.js",
-    "main.js.map": "/the_odin_project/static/js/main.617a9120.chunk.js.map",
-    "runtime-main.js": "/the_odin_project/static/js/runtime-main.ea5cb73d.js",
-    "runtime-main.js.map": "/the_odin_project/static/js/runtime-main.ea5cb73d.js.map",
-    "static/js/2.d578ac14.chunk.js": "/the_odin_project/static/js/2.d578ac14.chunk.js",
-    "static/js/2.d578ac14.chunk.js.map": "/the_odin_project/static/js/2.d578ac14.chunk.js.map",
-    "static/js/3.35c9607b.chunk.js": "/the_odin_project/static/js/3.35c9607b.chunk.js",
-    "static/js/3.35c9607b.chunk.js.map": "/the_odin_project/static/js/3.35c9607b.chunk.js.map",
+    "static/js/0.2729f3bc.chunk.js": "/the_odin_project/static/js/0.2729f3bc.chunk.js",
+    "static/js/0.2729f3bc.chunk.js.map": "/the_odin_project/static/js/0.2729f3bc.chunk.js.map",
+    "index.css": "/the_odin_project/static/css/index.c8a0b787.chunk.css",
+    "index.js": "/the_odin_project/static/js/index.e88005ed.chunk.js",
+    "index.js.map": "/the_odin_project/static/js/index.e88005ed.chunk.js.map",
+    "recipes.css": "/the_odin_project/static/css/recipes.f0802c7b.chunk.css",
+    "recipes.js": "/the_odin_project/static/js/recipes.a643266c.chunk.js",
+    "recipes.js.map": "/the_odin_project/static/js/recipes.a643266c.chunk.js.map",
+    "runtime-index.js": "/the_odin_project/static/js/runtime-index.6366d674.js",
+    "runtime-index.js.map": "/the_odin_project/static/js/runtime-index.6366d674.js.map",
+    "runtime-recipes.js": "/the_odin_project/static/js/runtime-recipes.f930e33a.js",
+    "runtime-recipes.js.map": "/the_odin_project/static/js/runtime-recipes.f930e33a.js.map",
+    "static/js/5.b92b29c2.chunk.js": "/the_odin_project/static/js/5.b92b29c2.chunk.js",
+    "static/js/5.b92b29c2.chunk.js.map": "/the_odin_project/static/js/5.b92b29c2.chunk.js.map",
     "index.html": "/the_odin_project/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/the_odin_project/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d578ac14.chunk.js.LICENSE.txt": "/the_odin_project/static/js/2.d578ac14.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/the_odin_project/static/media/logo.6ce24c58.svg"
+    "recipes/index.html": "/the_odin_project/recipes/index.html",
+    "static/css/index.c8a0b787.chunk.css.map": "/the_odin_project/static/css/index.c8a0b787.chunk.css.map",
+    "static/css/recipes.f0802c7b.chunk.css.map": "/the_odin_project/static/css/recipes.f0802c7b.chunk.css.map",
+    "static/js/0.2729f3bc.chunk.js.LICENSE.txt": "/the_odin_project/static/js/0.2729f3bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea5cb73d.js",
-    "static/js/2.d578ac14.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.617a9120.chunk.js"
+    "static/js/runtime-index.6366d674.js",
+    "static/js/0.2729f3bc.chunk.js",
+    "static/css/index.c8a0b787.chunk.css",
+    "static/js/index.e88005ed.chunk.js",
+    "static/js/runtime-recipes.f930e33a.js",
+    "static/js/0.2729f3bc.chunk.js",
+    "static/css/recipes.f0802c7b.chunk.css",
+    "static/js/recipes.a643266c.chunk.js"
   ]
 }
