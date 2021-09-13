@@ -7,7 +7,7 @@ function App() {
       <div className="app-container app-profile">
         <img src={process.env.PUBLIC_URL + "/profile.jpg"} alt="my profile" />
         <h2>shiny funicularity</h2>
-        <p>improving my skills <br />with the odin project's assignments</p>
+        <p>Taking rust off my brain by doing some of the small projects from TOP</p>
       </div>
       <h2 className="app-label">Projects</h2>
       <div className="app-container">
